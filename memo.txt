@@ -1,1 +1,6 @@
+必要なテーブル
+・Bots
+・Command
 
+Todo
+まずはER図を作成(Doing)
